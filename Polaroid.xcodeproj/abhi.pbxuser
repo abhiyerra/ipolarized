@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PolaroidAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 408}}";
+			sepNavSelRange = "{370, 0}";
+			sepNavVisRange = "{0, 718}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PolaroidAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1204}}";
+			sepNavSelRange = "{1037, 143}";
+			sepNavVisRange = "{791, 1197}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Polaroid */ = {
+		activeExec = 0;
+		executables = (
+			388F526F10104A98007114B4 /* Polaroid */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 388F526F10104A98007114B4 /* Polaroid */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Polaroid */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Polaroid */,
+		);
+		codeSenseManager = 388F528810104AA1007114B4 /* Code sense */;
+		executables = (
+			388F526F10104A98007114B4 /* Polaroid */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 270376948;
+			PBXWorkspaceStateSaveDate = 270376948;
+		};
+		perUserProjectItems = {
+			383CE83F1015B86D000E6D9C /* PBXBookmark */ = 383CE83F1015B86D000E6D9C /* PBXBookmark */;
+			388F52A910105DDA007114B4 /* PBXTextBookmark */ = 388F52A910105DDA007114B4 /* PBXTextBookmark */;
+			388F52B010105DDA007114B4 /* PBXTextBookmark */ = 388F52B010105DDA007114B4 /* PBXTextBookmark */;
+			388F52C310105DDA007114B4 /* PBXTextBookmark */ = 388F52C310105DDA007114B4 /* PBXTextBookmark */;
+			388F52EC10105E34007114B4 /* PBXTextBookmark */ = 388F52EC10105E34007114B4 /* PBXTextBookmark */;
+			388F530310105EAD007114B4 /* PBXTextBookmark */ = 388F530310105EAD007114B4 /* PBXTextBookmark */;
+			388F531610105FC7007114B4 /* PBXTextBookmark */ = 388F531610105FC7007114B4 /* PBXTextBookmark */;
+			389B238B101DA003007E6FAB /* PBXTextBookmark */ = 389B238B101DA003007E6FAB /* PBXTextBookmark */;
+			389B238C101DA003007E6FAB /* PlistBookmark */ = 389B238C101DA003007E6FAB /* PlistBookmark */;
+			389B238D101DA003007E6FAB /* PBXTextBookmark */ = 389B238D101DA003007E6FAB /* PBXTextBookmark */;
+			389B238E101DA003007E6FAB /* PlistBookmark */ = 389B238E101DA003007E6FAB /* PlistBookmark */;
+			38CDEAA7101AB3E20076DC4C /* PlistBookmark */ = 38CDEAA7101AB3E20076DC4C /* PlistBookmark */;
+			38CDEB57101ABF040076DC4C /* PBXBookmark */ = 38CDEB57101ABF040076DC4C /* PBXBookmark */;
+			38CDEB58101ABF040076DC4C /* PBXBookmark */ = 38CDEB58101ABF040076DC4C /* PBXBookmark */;
+			38CDEB5D101ABF040076DC4C /* PBXBookmark */ = 38CDEB5D101ABF040076DC4C /* PBXBookmark */;
+			38CDED44101C25B50076DC4C /* PBXTextBookmark */ = 38CDED44101C25B50076DC4C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 388F528710104AA1007114B4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Polaroid_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {540, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 322}";
+		};
+	};
+	383CE83F1015B86D000E6D9C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 383CE8311015B73F000E6D9C /* background.jpg */;
+	};
+	388F526F10104A98007114B4 /* Polaroid */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Polaroid;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	388F528710104AA1007114B4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	388F528810104AA1007114B4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	388F52A910105DDA007114B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	388F52B010105DDA007114B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PolaroidAppDelegate.h */;
+		name = "PolaroidAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	388F52C310105DDA007114B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PolaroidAppDelegate.m */;
+		name = "PolaroidAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 250;
+	};
+	388F52EC10105E34007114B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Polaroid_Prefix.pch */;
+		name = "Polaroid_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	388F530310105EAD007114B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Polaroid_Prefix.pch */;
+		name = "Polaroid_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	388F531610105FC7007114B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	389B238B101DA003007E6FAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PolaroidAppDelegate.m */;
+		name = "PolaroidAppDelegate.m: 41";
+		rLen = 143;
+		rLoc = 1037;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 791;
+	};
+	389B238C101DA003007E6FAB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Polaroid-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/abhi/code/Polaroid/Polaroid-Info.plist";
+		rLen = 3;
+		rLoc = 0;
+	};
+	389B238D101DA003007E6FAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PolaroidAppDelegate.m */;
+		name = "PolaroidAppDelegate.m: 41";
+		rLen = 143;
+		rLoc = 1037;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 791;
+	};
+	389B238E101DA003007E6FAB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Polaroid-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/abhi/code/Polaroid/Polaroid-Info.plist";
+		rLen = 3;
+		rLoc = 0;
+	};
+	38CDEAA7101AB3E20076DC4C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Polaroid-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/abhi/code/Polaroid/Polaroid-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	38CDEB57101ABF040076DC4C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 38CDEAC3101AB67A0076DC4C /* mask.png */;
+	};
+	38CDEB58101ABF040076DC4C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 383CE8311015B73F000E6D9C /* background.jpg */;
+	};
+	38CDEB5D101ABF040076DC4C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 38CDEAC3101AB67A0076DC4C /* mask.png */;
+	};
+	38CDED44101C25B50076DC4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PolaroidAppDelegate.h */;
+		name = "PolaroidAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* Polaroid-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+}
