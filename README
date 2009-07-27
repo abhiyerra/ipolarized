@@ -1,0 +1,37 @@
+iPolarized - Polaroid app for iPhone
+---
+
+Functionaity:
+0. You load the app
+1. You take a picture
+2. You say if you want to use that picture
+3. Program converts picture to polaroid
+4. Saves the picture to camera roll
+5. You quit app and start over.
+
+Todo:
+Fix 5
+Allow to convert pics from photo library.
+The way the photos show up is a bit iffy, i.e. the dimensions are fucked up on
+    the app itself. Look fine in photo library.
+
+This code is copyright under gpl3 so all you bastards who want to resell
+it for money have to release your code. Frankly I don't care if you resell
+it, but make the code open or I'll send Richard Stallman after you!!!
+
+LICENSE
+---
+Copyright (C) 2009. Kesava Abhinav Yerra <abhi@traytwo.com>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
